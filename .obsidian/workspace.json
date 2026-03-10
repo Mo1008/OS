@@ -25,15 +25,18 @@
             "id": "2c1a1f347b144a31",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "PPT/第2章 操作系统的运行环境和运行机制.pdf"
+                "file": "OS运行环境与机制.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "第2章 操作系统的运行环境和运行机制"
+              "icon": "lucide-file",
+              "title": "OS运行环境与机制"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,7 +209,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e691ad59278521a6",
+  "active": "2c1a1f347b144a31",
   "lastOpenFiles": [
     "PPT/第2章 操作系统的运行环境和运行机制.pdf",
     "OS运行环境与机制.md",
