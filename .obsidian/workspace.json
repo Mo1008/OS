@@ -20,6 +20,18 @@
               "icon": "lucide-file",
               "title": "OS运行环境与机制"
             }
+          },
+          {
+            "id": "2c1a1f347b144a31",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "PPT/第2章 操作系统的运行环境和运行机制.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "第2章 操作系统的运行环境和运行机制"
+            }
           }
         ]
       }
@@ -194,9 +206,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e691ad59278521a6",
+  "active": "b2a44c497925e983",
   "lastOpenFiles": [
-    "新建 文本文档.txt",
-    "OS运行环境与机制.md"
+    "PPT/第2章 操作系统的运行环境和运行机制.pdf",
+    "OS运行环境与机制.md",
+    "PPT/第1章 操作系统基础知识.pdf",
+    "PPT",
+    "新建 文本文档.txt"
   ]
 }
