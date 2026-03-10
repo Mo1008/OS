@@ -1,0 +1,22 @@
+# 忽略操作系统的系统级缓存文件
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# 忽略 Obsidian 的本地工作区状态（核心！）
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+
+# 忽略 Obsidian 的本地废件箱
+.trash/
+
+# （可选）如果你在笔记库里跑 Python 等代码，可以解除下面这些注释
+# __pycache__/
+# *.py[cod]
