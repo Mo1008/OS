@@ -11,14 +11,12 @@
             "id": "e691ad59278521a6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "OS运行环境与机制.md",
-                "mode": "source",
-                "source": false
+                "file": "PPT/第1章 操作系统基础知识.pdf"
               },
-              "icon": "lucide-file",
-              "title": "OS运行环境与机制"
+              "icon": "lucide-file-text",
+              "title": "第1章 操作系统基础知识"
             }
           },
           {
