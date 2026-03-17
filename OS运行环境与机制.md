@@ -67,6 +67,10 @@ long syscall (long num, long argo, long argl, long arg2) {
 		: "r"(al), "r"(a2), "r"(a7) 
 		: "memory");                     
 	return a0;
+### Linux系统调用
+![[Pasted image 20260317111728.png]]
+
+
 # 1
 切换后要有syscall返回指令，恢复切换前的状态
 ### 中断
