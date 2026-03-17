@@ -18,5 +18,6 @@ desktop.ini
 .trash/
 
 # （可选）如果你在笔记库里跑 Python 等代码，可以解除下面这些注释
+操作系统概念.pdf
 # __pycache__/
 # *.py[cod]

@@ -6,19 +6,29 @@
       {
         "id": "457d1270db8966c3",
         "type": "tabs",
+        "dimension": 47.250859106529205,
         "children": [
           {
             "id": "e691ad59278521a6",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "PPT/第1章 操作系统基础知识.pdf"
+                "file": "OS运行环境与机制.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "第1章 操作系统基础知识"
+              "icon": "lucide-file",
+              "title": "OS运行环境与机制"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "413b0914be7edafa",
+        "type": "tabs",
+        "dimension": 52.749140893470795,
+        "children": [
           {
             "id": "2c1a1f347b144a31",
             "type": "leaf",
@@ -186,11 +196,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,7 +218,9 @@
   "lastOpenFiles": [
     "PPT/第2章 操作系统的运行环境和运行机制.pdf",
     "OS运行环境与机制.md",
+    "操作系统概念.pdf",
     "PPT/第1章 操作系统基础知识.pdf",
+    "操作系统概念 (1).pdf",
     "PPT",
     "新建 文本文档.txt"
   ]
