@@ -47,7 +47,16 @@ OS提供的服务的编程接口，提供了一种**受控的机制**，允许�
 + 参数存放在内存的一张表（结构体、数组）中，表地址作为寄存器的参数传递
 + 程序把参数压入栈，有操作系统pop
 
-## RISC-V系统调用
+## 类型
++ 进程控制
++ 文件管理
++ 设备管理
++ 信息维护
++ 通信
+## 系统调用案例
+由用户态转到内核态时会将用户态内容保存到**陷阱帧**，
+
+### RISC-V系统调用
 long syscall (long num, long argo, long argl, long arg2) { 
 	register long a0 \__asm\__ ("a0") = arg0; 
 	register long al \__asm\__ ("al") = arg1;
@@ -56,10 +65,9 @@ long syscall (long num, long argo, long argl, long arg2) {
 	\__asm\__ volatile ("ecall"
 		: "+r"(a0)
 		: "r"(al), "r"(a2), "r"(a7) 
-		: "memory");
+		: "memory");                     
 	return a0;
-
+# 1
 切换后要有syscall返回指令，恢复切换前的状态
-# 用户态有用户态的栈，内核态有内核态的栈，不能互相访问
 ### 中断
 关中断 -> 保存断点 -> 引出中断服务程序 -> 保存现场和屏蔽字 -> 开中断（可能有**更高级的中断**） -> 执行中断服务程序 -> 关中断 -> 恢复现场和屏蔽字 -> 
