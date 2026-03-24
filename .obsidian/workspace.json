@@ -12,12 +12,14 @@
             "id": "e691ad59278521a6",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "PPT/第3章 进程线程模型.pdf"
+                "file": "进程线程模型.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "第3章 进程线程模型"
+              "icon": "lucide-file",
+              "title": "进程线程模型"
             }
           }
         ]
@@ -33,10 +35,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "PPT/第2章 操作系统的运行环境和运行机制.pdf"
+                "file": "PPT/第3章 进程线程模型.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "第2章 操作系统的运行环境和运行机制"
+              "title": "第3章 进程线程模型"
             }
           }
         ]
@@ -174,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PPT/第3章 进程线程模型.pdf",
+                "file": "进程线程模型.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "第3章 进程线程模型 的大纲"
+              "title": "进程线程模型 的大纲"
             }
           },
           {
@@ -214,10 +216,11 @@
   },
   "active": "e691ad59278521a6",
   "lastOpenFiles": [
+    "PPT/第3章 进程线程模型.pdf",
+    "PPT/第2章 操作系统的运行环境和运行机制.pdf",
     "进程线程模型.md",
     "OS运行环境与机制.md",
     "Pasted image 20260317111728.png",
-    "PPT/第2章 操作系统的运行环境和运行机制.pdf",
     "操作系统概念.pdf",
     "PPT/第1章 操作系统基础知识.pdf",
     "操作系统概念 (1).pdf",
