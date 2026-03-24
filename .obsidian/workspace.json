@@ -176,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "进程线程模型.md",
+                "file": "PPT/第3章 进程线程模型.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "进程线程模型 的大纲"
+              "title": "第3章 进程线程模型 的大纲"
             }
           },
           {
@@ -214,10 +214,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e691ad59278521a6",
+  "active": "2c1a1f347b144a31",
   "lastOpenFiles": [
-    "PPT/第3章 进程线程模型.pdf",
     "进程线程模型.md",
+    "PPT/第3章 进程线程模型.pdf",
     "PPT/第2章 操作系统的运行环境和运行机制.pdf",
     "OS运行环境与机制.md",
     "Pasted image 20260317111728.png",
