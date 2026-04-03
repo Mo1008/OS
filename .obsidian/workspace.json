@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lambda演算.md",
+                "file": "进程线程.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lambda演算"
+              "title": "进程线程"
             }
           }
         ]
@@ -35,10 +35,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "PPT/第3章 进程线程模型.pdf"
+                "file": "PPT/第4章 进程线程调度.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "第3章 进程线程模型"
+              "title": "第4章 进程线程调度"
             }
           }
         ]
@@ -176,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lambda演算.md",
+                "file": "进程线程.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Lambda演算 的大纲"
+              "title": "进程线程 的大纲"
             }
           },
           {
@@ -216,9 +216,10 @@
   },
   "active": "e691ad59278521a6",
   "lastOpenFiles": [
-    "进程线程模型.md",
-    "Lambda演算.md",
+    "PPT/第4章 进程线程调度.pdf",
     "PPT/第3章 进程线程模型.pdf",
+    "进程线程.md",
+    "进程线程模型.md",
     "PPT/第2章 操作系统的运行环境和运行机制.pdf",
     "OS运行环境与机制.md",
     "Pasted image 20260317111728.png",
