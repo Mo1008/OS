@@ -196,11 +196,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 236.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,7 +214,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e691ad59278521a6",
+  "active": "e1157f1ef995e5cc",
   "lastOpenFiles": [
     "6872f2499bb9ff128501f6374955ed70.png",
     "进程线程模型.md",
