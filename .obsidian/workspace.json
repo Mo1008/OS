@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "进程同步.md",
+                "file": "进程线程.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "进程同步"
+              "title": "进程线程"
             }
           }
         ]
@@ -35,10 +35,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "PPT/第4章 进程线程调度.pdf"
+                "file": "2025操作系统期中.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "第4章 进程线程调度"
+              "title": "2025操作系统期中"
             }
           }
         ]
@@ -176,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "进程同步.md",
+                "file": "进程线程.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "进程同步 的大纲"
+              "title": "进程线程 的大纲"
             }
           },
           {
@@ -216,12 +216,14 @@
   },
   "active": "e691ad59278521a6",
   "lastOpenFiles": [
+    "2025操作系统期中.pdf",
+    "PPT/第4章 进程线程调度.pdf",
     "进程线程.md",
-    "pic/6872f2499bb9ff128501f6374955ed70.png",
+    "未命名.md",
     "进程同步.md",
+    "pic/6872f2499bb9ff128501f6374955ed70.png",
     "操作系统概念.pdf",
     "pic",
-    "PPT/第4章 进程线程调度.pdf",
     "进程线程模型.md",
     "未命名.base",
     "未命名.canvas",
