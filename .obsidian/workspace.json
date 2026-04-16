@@ -21,6 +21,18 @@
               "icon": "lucide-file",
               "title": "进程线程"
             }
+          },
+          {
+            "id": "640ebebebd820b25",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "pic/6872f2499bb9ff128501f6374955ed70.png"
+              },
+              "icon": "lucide-image",
+              "title": "6872f2499bb9ff128501f6374955ed70"
+            }
           }
         ]
       },
@@ -214,14 +226,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e691ad59278521a6",
+  "active": "b2a44c497925e983",
   "lastOpenFiles": [
+    "pic/Pasted image 20260416155151.png",
+    "进程线程.md",
+    "pic/6872f2499bb9ff128501f6374955ed70.png",
+    "pic/Pasted image 20260416154212.png",
+    "pic/Pasted image 20260317111728.png",
     "2025操作系统期中.pdf",
     "PPT/第4章 进程线程调度.pdf",
-    "进程线程.md",
     "未命名.md",
     "进程同步.md",
-    "pic/6872f2499bb9ff128501f6374955ed70.png",
     "操作系统概念.pdf",
     "pic",
     "进程线程模型.md",
@@ -231,10 +246,8 @@
     "PPT/第3章 进程线程模型.pdf",
     "PPT/第2章 操作系统的运行环境和运行机制.pdf",
     "OS运行环境与机制.md",
-    "Pasted image 20260317111728.png",
     "PPT/第1章 操作系统基础知识.pdf",
     "操作系统概念 (1).pdf",
-    "PPT",
-    "新建 文本文档.txt"
+    "PPT"
   ]
 }
