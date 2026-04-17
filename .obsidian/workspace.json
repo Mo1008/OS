@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "进程调度.md",
+                "file": "进程同步机制.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "进程调度"
+              "title": "进程同步机制"
             }
           }
         ],
@@ -50,10 +50,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "2025操作系统期中.pdf"
+                "file": "PPT/第5章 进程同步机制.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "2025操作系统期中"
+              "title": "第5章 进程同步机制"
             }
           }
         ]
@@ -191,13 +191,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "进程调度.md",
+                "file": "进程同步机制.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "进程调度 的大纲"
+              "title": "进程同步机制 的大纲"
             }
           },
           {
@@ -231,14 +231,15 @@
   },
   "active": "640ebebebd820b25",
   "lastOpenFiles": [
-    "Pasted image 20260416203059.png",
-    "Pasted image 20260416202641.png",
+    "PPT/第5章 进程同步机制.pdf",
     "2025操作系统期中.pdf",
+    "进程同步机制.md",
     "进程调度.md",
+    "pic/Pasted image 20260416203059.png",
+    "pic/Pasted image 20260416202641.png",
     "进程线程.md",
     "pic/6872f2499bb9ff128501f6374955ed70.png",
     "未命名.base",
-    "未命名.md",
     "进程同步.md",
     "PPT/第3章 进程线程模型.pdf",
     "pic/Pasted image 20260416170146.png",
@@ -254,7 +255,6 @@
     "PPT/第2章 操作系统的运行环境和运行机制.pdf",
     "OS运行环境与机制.md",
     "PPT/第1章 操作系统基础知识.pdf",
-    "操作系统概念 (1).pdf",
-    "PPT"
+    "操作系统概念 (1).pdf"
   ]
 }
