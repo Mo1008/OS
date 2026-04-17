@@ -1,9 +1,11 @@
 " 将 jk 映射为 Esc
 imap jj <Esc>
 
-" 让移动遵循视觉行（对长文本非常重要）
-nmap j gj
-nmap k gk
+" 让 j 和 k 按照视觉行移动，而不是逻辑行
+unmap j
+unmap k
+noremap j gj
+noremap k gk
 
 nmap <C-i> :forward
 nmap <C-o> :bask
