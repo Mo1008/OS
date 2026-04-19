@@ -36,8 +36,7 @@
               "title": "进程同步机制"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "413b0914be7edafa",
@@ -191,13 +190,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PPT/第5章 进程同步机制.pdf",
+                "file": "进程调度.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "第5章 进程同步机制 的大纲"
+              "title": "进程调度 的大纲"
             }
           },
           {
@@ -229,7 +228,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2c1a1f347b144a31",
+  "active": "e691ad59278521a6",
   "lastOpenFiles": [
     "进程同步机制.md",
     "PPT/第5章 进程同步机制.pdf",
