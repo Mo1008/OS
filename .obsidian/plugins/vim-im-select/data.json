@@ -1,0 +1,8 @@
+{
+  "defaultIM": "",
+  "obtainCmd": "",
+  "switchCmd": "",
+  "windowsDefaultIM": "103",
+  "windowsObtainCmd": "D:\\Applications\\im-select-master\\win\\out\\x64\\im-select.exe",
+  "windowsSwitchCmd": "D:\\Applications\\im-select-master\\win\\out\\x64\\im-select.exe{im}"
+}
