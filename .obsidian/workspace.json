@@ -6,10 +6,29 @@
       {
         "id": "457d1270db8966c3",
         "type": "tabs",
-        "dimension": 57.153338224504765,
+        "dimension": 34.01015228426396,
         "children": [
           {
             "id": "640ebebebd820b25",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "PPT/第5章 进程同步机制.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "第5章 进程同步机制"
+            }
+          }
+        ]
+      },
+      {
+        "id": "413b0914be7edafa",
+        "type": "tabs",
+        "dimension": 65.98984771573603,
+        "children": [
+          {
+            "id": "2c1a1f347b144a31",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,25 +39,6 @@
               },
               "icon": "lucide-file",
               "title": "进程同步"
-            }
-          }
-        ]
-      },
-      {
-        "id": "413b0914be7edafa",
-        "type": "tabs",
-        "dimension": 42.846661775495235,
-        "children": [
-          {
-            "id": "2c1a1f347b144a31",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "PPT/第5章 进程同步机制.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "第5章 进程同步机制"
             }
           }
         ]
@@ -215,12 +215,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "640ebebebd820b25",
+  "active": "2c1a1f347b144a31",
   "lastOpenFiles": [
+    "PPT/第5章 进程同步机制.pdf",
+    "进程同步.md",
     "进程线程.md",
     "进程同步机制.md",
-    "进程同步.md",
-    "PPT/第5章 进程同步机制.pdf",
     "2025操作系统期中.pdf",
     "进程调度.md",
     "pic/Pasted image 20260416203059.png",
