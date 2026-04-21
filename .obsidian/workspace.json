@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "进程同步.md",
+                "file": "进程通信.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "进程同步"
+              "title": "进程通信"
             }
           }
         ]
@@ -217,8 +217,9 @@
   },
   "active": "04342685a87da247",
   "lastOpenFiles": [
-    "PPT/第5章 进程同步机制.pdf",
     "进程同步.md",
+    "进程通信.md",
+    "PPT/第5章 进程同步机制.pdf",
     "作业.md",
     "pic/T6.20.png",
     "进程调度.md",
