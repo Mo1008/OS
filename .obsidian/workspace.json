@@ -6,7 +6,7 @@
       {
         "id": "f3e1aef5ecc54a0e",
         "type": "tabs",
-        "dimension": 45.36802030456853,
+        "dimension": 50.483229107447414,
         "children": [
           {
             "id": "04342685a87da247",
@@ -27,7 +27,7 @@
       {
         "id": "de6b60191c87682c",
         "type": "tabs",
-        "dimension": 54.631979695431475,
+        "dimension": 49.516770892552586,
         "children": [
           {
             "id": "23d8d7437d28bece",
@@ -217,10 +217,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "04342685a87da247",
+  "active": "23d8d7437d28bece",
   "lastOpenFiles": [
-    "进程同步.md",
     "作业.md",
+    "进程同步.md",
     "pic/T6.20.png",
     "进程调度.md",
     "PPT/第5章 进程同步机制.pdf",
