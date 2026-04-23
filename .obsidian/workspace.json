@@ -48,14 +48,12 @@
             "id": "23d8d7437d28bece",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "进程调度.md",
-                "mode": "source",
-                "source": false
+                "file": "PPT/第3章 进程线程模型.pdf"
               },
-              "icon": "lucide-file",
-              "title": "进程调度"
+              "icon": "lucide-file-text",
+              "title": "第3章 进程线程模型"
             }
           },
           {
@@ -70,8 +68,7 @@
               "title": "第5章 进程同步机制"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -245,12 +242,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b18d56983dc342c9",
+  "active": "23d8d7437d28bece",
   "lastOpenFiles": [
+    "进程调度.md",
     "PPT/第5章 进程同步机制.pdf",
     "进程同步.md",
     "PPT/第1章 操作系统基础知识.pdf",
-    "进程调度.md",
     "操作系统概念.pdf",
     "2025操作系统期中.pdf",
     "进程同步机制.md",
