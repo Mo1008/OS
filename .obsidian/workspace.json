@@ -64,13 +64,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "PPT/第5章 进程同步机制.pdf"
+                "file": "PPT/第1章 操作系统基础知识.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "第5章 进程同步机制"
+              "title": "第1章 操作系统基础知识"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -244,16 +245,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "23d8d7437d28bece",
+  "active": "45d751db521413c8",
   "lastOpenFiles": [
+    "PPT/第5章 进程同步机制.pdf",
+    "进程调度.md",
     "操作系统概念.pdf",
     "2025操作系统期中.pdf",
     "进程同步.md",
-    "PPT/第5章 进程同步机制.pdf",
     "进程同步机制.md",
     "进程通信.md",
     "死锁.md",
-    "进程调度.md",
     "PPT/第6章 死锁.pdf",
     "作业.md",
     "pic/T6.20.png",
