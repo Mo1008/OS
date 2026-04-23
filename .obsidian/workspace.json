@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "死锁.md",
+                "file": "进程同步.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "死锁"
+              "title": "进程同步"
             }
           }
         ],
@@ -50,10 +50,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "PPT/第5章 进程同步机制.pdf"
+                "file": "2025操作系统期中.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "第5章 进程同步机制"
+              "title": "2025操作系统期中"
             }
           }
         ]
@@ -232,17 +232,17 @@
   },
   "active": "b18d56983dc342c9",
   "lastOpenFiles": [
-    "PPT/第5章 进程同步机制.pdf",
-    "PPT/第6章 死锁.pdf",
-    "死锁.md",
-    "进程同步.md",
+    "进程同步机制.md",
     "进程通信.md",
+    "2025操作系统期中.pdf",
+    "进程同步.md",
+    "PPT/第5章 进程同步机制.pdf",
+    "死锁.md",
     "进程调度.md",
+    "PPT/第6章 死锁.pdf",
     "作业.md",
     "pic/T6.20.png",
     "进程线程.md",
-    "进程同步机制.md",
-    "2025操作系统期中.pdf",
     "pic/Pasted image 20260416203059.png",
     "pic/Pasted image 20260416202641.png",
     "pic/6872f2499bb9ff128501f6374955ed70.png",
