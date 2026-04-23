@@ -48,12 +48,14 @@
             "id": "23d8d7437d28bece",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "2025操作系统期中.pdf"
+                "file": "进程调度.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "2025操作系统期中"
+              "icon": "lucide-file",
+              "title": "进程调度"
             }
           },
           {
@@ -244,8 +246,9 @@
   },
   "active": "23d8d7437d28bece",
   "lastOpenFiles": [
-    "进程同步.md",
+    "操作系统概念.pdf",
     "2025操作系统期中.pdf",
+    "进程同步.md",
     "PPT/第5章 进程同步机制.pdf",
     "进程同步机制.md",
     "进程通信.md",
@@ -265,7 +268,6 @@
     "pic/Pasted image 20260416154212.png",
     "pic/Pasted image 20260317111728.png",
     "PPT/第4章 进程线程调度.pdf",
-    "操作系统概念.pdf",
     "pic",
     "进程线程模型.md",
     "未命名.canvas",
