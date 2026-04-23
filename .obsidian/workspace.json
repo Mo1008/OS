@@ -68,8 +68,7 @@
               "title": "第5章 进程同步机制"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -243,10 +242,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "45d751db521413c8",
+  "active": "23d8d7437d28bece",
   "lastOpenFiles": [
-    "进程同步.md",
     "PPT/第5章 进程同步机制.pdf",
+    "进程同步.md",
     "进程同步机制.md",
     "进程通信.md",
     "2025操作系统期中.pdf",
