@@ -64,10 +64,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "PPT/第1章 操作系统基础知识.pdf"
+                "file": "PPT/第5章 进程同步机制.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "第1章 操作系统基础知识"
+              "title": "第5章 进程同步机制"
             }
           }
         ],
@@ -247,6 +247,7 @@
   },
   "active": "45d751db521413c8",
   "lastOpenFiles": [
+    "PPT/第1章 操作系统基础知识.pdf",
     "PPT/第5章 进程同步机制.pdf",
     "进程调度.md",
     "操作系统概念.pdf",
@@ -274,7 +275,6 @@
     "未命名.canvas",
     "2026-04-03.md",
     "PPT/第2章 操作系统的运行环境和运行机制.pdf",
-    "OS运行环境与机制.md",
-    "PPT/第1章 操作系统基础知识.pdf"
+    "OS运行环境与机制.md"
   ]
 }
