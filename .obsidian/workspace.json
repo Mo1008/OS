@@ -67,8 +67,21 @@
               "icon": "lucide-file-text",
               "title": "第5章 进程同步机制"
             }
+          },
+          {
+            "id": "c05590d06fddcd7d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "2025操作系统期中.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "2025操作系统期中"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -242,8 +255,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "23d8d7437d28bece",
+  "active": "c05590d06fddcd7d",
   "lastOpenFiles": [
+    "PPT/第3章 进程线程模型.pdf",
     "进程调度.md",
     "PPT/第5章 进程同步机制.pdf",
     "进程同步.md",
@@ -261,7 +275,6 @@
     "pic/Pasted image 20260416202641.png",
     "pic/6872f2499bb9ff128501f6374955ed70.png",
     "未命名.base",
-    "PPT/第3章 进程线程模型.pdf",
     "pic/Pasted image 20260416170146.png",
     "pic/Pasted image 20260416155151.png",
     "pic/Pasted image 20260416154212.png",
